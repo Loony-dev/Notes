@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="notes">Notes</string>
+    <string name="search">Search</string>
+    <string name="pinned">Pinned</string>
+    <string name="all">All</string>
+    <string name="Title">Title</string>
+    <string name="save">Save</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="bold">Bold</string>
+    <string name="italic">Italic</string>
+    <string name="text_color">Text color</string>
+    <string name="text_bg">Text background</string>
+</resources>

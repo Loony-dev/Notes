@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="notes">Нотатки</string>
+    <string name="search">Пошук</string>
+    <string name="pinned">Закріплені</string>
+    <string name="all">Всі</string>
+    <string name="Title">Заголовок</string>
+    <string name="save">Зберегти</string>
+    <string name="undo">Скасувати</string>
+    <string name="redo">Повернути</string>
+    <string name="bold">Жирний</string>
+    <string name="italic">Курсив</string>
+    <string name="text_color">Колір тексту</string>
+    <string name="text_bg">Фон тексту</string>
+</resources>
